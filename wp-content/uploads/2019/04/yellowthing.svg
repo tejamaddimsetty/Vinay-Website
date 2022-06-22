@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="1042px" viewBox="0 0 202 1042" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.984749%" y1="-0.000657464105%" x2="49.984749%" y2="100.036753%" id="linearGradient-1">
+            <stop stop-color="#FFB400" offset="3%"></stop>
+            <stop stop-color="#FEC12E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Yellow-swirl" transform="translate(-614.000000, -394.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M0.88,122.84 C0.881639593,73.4981527 30.6044358,29.0152836 76.1899033,10.1318768 C121.775371,-8.75152991 174.247203,1.68288724 209.14,36.57 L562.31,389.74 C706.831888,534.062743 788.040202,729.925954 788.040202,934.17 C788.040202,1138.41405 706.831888,1334.27726 562.31,1478.6 L479.67,1561.24 C431.932903,1608.327 355.142553,1608.06377 307.72939,1560.65061 C260.316228,1513.23745 260.053001,1436.4471 307.14,1388.71 L389.78,1306.07 C489.12,1206.73 543.78,1074.65 543.78,934.17 C543.78,793.69 489.08,661.61 389.78,562.27 L36.61,209.1 C13.6969332,186.246163 0.838078894,155.202088 0.88,122.84 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
